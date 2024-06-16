@@ -1,6 +1,6 @@
 # Lol-draft-win-prediction
 
-dataset: [league of legends master games patch 14.10](https://www.kaggle.com/datasets/jakubjagieka/league-of-legends-2024-soloq-dataset)
+dataset: [league of legends master games patch 14.10](https://www.kaggle.com/datasets/jakubjagieka/league-of-legends-2024-soloq-dataset) (put the data folder)
 
 - This project was intially for predicting win rate percentage for champions only, but there was too much noise so I have to add a 10 more columns for champions winrate. Unfortunately i could not finished this because I simply do not have enough RAM
 
